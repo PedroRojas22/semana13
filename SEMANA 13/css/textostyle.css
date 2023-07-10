@@ -1,0 +1,7 @@
+#titulo1 {
+    @font-face{
+        font-family:SwipeRaceDemo.ttf;
+        scr:url('../font/SwipeRaceDemo')format('truetype');
+    }
+    text-shadow: 5px 5px 5px #aaa;
+}
